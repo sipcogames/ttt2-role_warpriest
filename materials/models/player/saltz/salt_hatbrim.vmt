@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+$baseTexture "models/player/saltz/salt_hatbrim"
+$bumpmap "models/player/saltz/salt_hatbrim_n"
+
+}
+
+

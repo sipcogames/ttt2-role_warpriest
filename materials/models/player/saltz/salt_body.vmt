@@ -1,0 +1,25 @@
+VertexLitGeneric
+{
+$baseTexture "models/player/saltz/salt_body_shiny"
+$bumpmap "models/player/saltz/salt_body_n"
+    $phong 1
+    $phongboost 0.1
+    $phongexponent "8"
+
+    $phongtint "[.85 .85 1]"
+    $phongfresnelranges "[.2 .5 5]"
+    $ambientocclusion 1
+    $halflambert 1    
+    $diffuseexp "1.5"
+    // $lightwarptexture "models/chell/skin_warp"
+    $rimlight 1
+    $rimlightboost 3
+    $rimlightexponent 6
+    $surfaceprop flesh
+
+    $envmap env_cubemap
+    $basealphaenvmapmask 0
+}
+
+
+
